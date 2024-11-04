@@ -1,0 +1,1280 @@
+[2024-09-30 17:15:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:18] [INFO] Database connection established successfully
+[2024-09-30 17:15:18] [INFO] Database initialized successfully
+[2024-09-30 17:15:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:18] [INFO] Database connection established successfully
+[2024-09-30 17:15:18] [INFO] User retrieved by username: doug
+[2024-09-30 17:15:18] [INFO] User logged in: doug
+[2024-09-30 17:15:18] [INFO] Successful login: doug
+[2024-09-30 17:15:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:18] [INFO] Database connection established successfully
+[2024-09-30 17:15:18] [INFO] Database initialized successfully
+[2024-09-30 17:15:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:19] [INFO] Database connection established successfully
+[2024-09-30 17:15:19] [INFO] User progress retrieved for user ID: 14
+[2024-09-30 17:15:20] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:20] [INFO] Database connection established successfully
+[2024-09-30 17:15:20] [INFO] Database initialized successfully
+[2024-09-30 17:15:20] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:20] [INFO] Database connection established successfully
+[2024-09-30 17:15:20] [INFO] User progress updated for user ID: 14, Step: 2, Choice: Lizzy
+[2024-09-30 17:15:20] [INFO] User 14 progressed to step 2 with choice: Lizzy
+[2024-09-30 17:15:20] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:20] [INFO] Database connection established successfully
+[2024-09-30 17:15:20] [INFO] User progress retrieved for user ID: 14
+[2024-09-30 17:15:21] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:21] [INFO] Database connection established successfully
+[2024-09-30 17:15:21] [INFO] Database initialized successfully
+[2024-09-30 17:15:21] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:21] [INFO] Database connection established successfully
+[2024-09-30 17:15:21] [INFO] User progress updated for user ID: 14, Step: 3, Choice: Festival
+[2024-09-30 17:15:21] [INFO] User 14 progressed to step 3 with choice: Festival
+[2024-09-30 17:15:21] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:21] [INFO] Database connection established successfully
+[2024-09-30 17:15:21] [INFO] User progress retrieved for user ID: 14
+[2024-09-30 17:15:21] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:21] [INFO] Database connection established successfully
+[2024-09-30 17:15:21] [INFO] Database initialized successfully
+[2024-09-30 17:15:21] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:21] [INFO] Database connection established successfully
+[2024-09-30 17:15:21] [INFO] User progress updated for user ID: 14, Step: 4, Choice: Lettuce
+[2024-09-30 17:15:21] [INFO] User 14 progressed to step 4 with choice: Lettuce
+[2024-09-30 17:15:21] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:21] [INFO] Database connection established successfully
+[2024-09-30 17:15:21] [INFO] User progress retrieved for user ID: 14
+[2024-09-30 17:15:22] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:22] [INFO] Database connection established successfully
+[2024-09-30 17:15:22] [INFO] Database initialized successfully
+[2024-09-30 17:15:22] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:22] [INFO] Database connection established successfully
+[2024-09-30 17:15:22] [INFO] User progress reset for user ID: 14
+[2024-09-30 17:15:22] [INFO] User 14 started the story over
+[2024-09-30 17:15:22] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:22] [INFO] Database connection established successfully
+[2024-09-30 17:15:22] [INFO] User progress retrieved for user ID: 14
+[2024-09-30 17:15:36] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:15:36] [INFO] Database connection established successfully
+[2024-09-30 17:15:36] [INFO] Database initialized successfully
+[2024-09-30 17:18:14] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:14] [INFO] Database connection established successfully
+[2024-09-30 17:18:14] [INFO] Database initialized successfully
+[2024-09-30 17:18:14] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:14] [INFO] Database connection established successfully
+[2024-09-30 17:18:14] [INFO] User retrieved by username: doug
+[2024-09-30 17:18:14] [INFO] User logged in: doug
+[2024-09-30 17:18:14] [INFO] Successful login: doug
+[2024-09-30 17:18:14] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:14] [INFO] Database connection established successfully
+[2024-09-30 17:18:14] [INFO] Database initialized successfully
+[2024-09-30 17:18:14] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:14] [INFO] Database connection established successfully
+[2024-09-30 17:18:14] [INFO] User progress retrieved for user ID: 14
+[2024-09-30 17:18:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:15] [INFO] Database connection established successfully
+[2024-09-30 17:18:15] [INFO] Database initialized successfully
+[2024-09-30 17:18:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:15] [INFO] Database connection established successfully
+[2024-09-30 17:18:15] [INFO] User progress updated for user ID: 14, Step: 2, Choice: Lizzy
+[2024-09-30 17:18:15] [INFO] User 14 progressed to step 2 with choice: Lizzy
+[2024-09-30 17:18:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:15] [INFO] Database connection established successfully
+[2024-09-30 17:18:15] [INFO] User progress retrieved for user ID: 14
+[2024-09-30 17:18:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:17] [INFO] Database connection established successfully
+[2024-09-30 17:18:17] [INFO] Database initialized successfully
+[2024-09-30 17:18:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:17] [INFO] Database connection established successfully
+[2024-09-30 17:18:17] [INFO] User progress updated for user ID: 14, Step: 3, Choice: Festival
+[2024-09-30 17:18:17] [INFO] User 14 progressed to step 3 with choice: Festival
+[2024-09-30 17:18:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:17] [INFO] Database connection established successfully
+[2024-09-30 17:18:17] [INFO] User progress retrieved for user ID: 14
+[2024-09-30 17:18:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:17] [INFO] Database connection established successfully
+[2024-09-30 17:18:17] [INFO] Database initialized successfully
+[2024-09-30 17:18:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:17] [INFO] Database connection established successfully
+[2024-09-30 17:18:17] [INFO] User progress updated for user ID: 14, Step: 4, Choice: Lettuce
+[2024-09-30 17:18:17] [INFO] User 14 progressed to step 4 with choice: Lettuce
+[2024-09-30 17:18:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:18:17] [INFO] Database connection established successfully
+[2024-09-30 17:18:17] [INFO] User progress retrieved for user ID: 14
+[2024-09-30 17:56:03] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:03] [INFO] Database connection established successfully
+[2024-09-30 17:56:03] [INFO] Database initialized successfully
+[2024-09-30 17:56:08] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:08] [INFO] Database connection established successfully
+[2024-09-30 17:56:08] [INFO] Database initialized successfully
+[2024-09-30 17:56:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:15] [INFO] Database connection established successfully
+[2024-09-30 17:56:15] [INFO] Database initialized successfully
+[2024-09-30 17:56:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:15] [INFO] Database connection established successfully
+[2024-09-30 17:56:15] [INFO] New user created with ID: 15
+[2024-09-30 17:56:15] [INFO] New user registered: doug
+[2024-09-30 17:56:16] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:16] [INFO] Database connection established successfully
+[2024-09-30 17:56:16] [INFO] Database initialized successfully
+[2024-09-30 17:56:23] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:23] [INFO] Database connection established successfully
+[2024-09-30 17:56:23] [INFO] Database initialized successfully
+[2024-09-30 17:56:23] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:23] [INFO] Database connection established successfully
+[2024-09-30 17:56:23] [INFO] User retrieved by username: doug
+[2024-09-30 17:56:23] [INFO] User logged in: doug
+[2024-09-30 17:56:23] [INFO] Successful login: doug
+[2024-09-30 17:56:23] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:23] [INFO] Database connection established successfully
+[2024-09-30 17:56:23] [INFO] Database initialized successfully
+[2024-09-30 17:56:23] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:23] [INFO] Database connection established successfully
+[2024-09-30 17:56:23] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 17:56:25] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:25] [INFO] Database connection established successfully
+[2024-09-30 17:56:25] [INFO] Database initialized successfully
+[2024-09-30 17:56:25] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:25] [INFO] Database connection established successfully
+[2024-09-30 17:56:25] [INFO] User progress updated for user ID: 15, Step: 2, Choice: Lizzy
+[2024-09-30 17:56:25] [INFO] User 15 progressed to step 2 with choice: Lizzy
+[2024-09-30 17:56:25] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:25] [INFO] Database connection established successfully
+[2024-09-30 17:56:25] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 17:56:26] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:26] [INFO] Database connection established successfully
+[2024-09-30 17:56:26] [INFO] Database initialized successfully
+[2024-09-30 17:56:26] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:26] [INFO] Database connection established successfully
+[2024-09-30 17:56:26] [INFO] User progress updated for user ID: 15, Step: 3, Choice: Walmart
+[2024-09-30 17:56:26] [INFO] User 15 progressed to step 3 with choice: Walmart
+[2024-09-30 17:56:26] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:26] [INFO] Database connection established successfully
+[2024-09-30 17:56:26] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 17:56:26] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:26] [INFO] Database connection established successfully
+[2024-09-30 17:56:26] [INFO] Database initialized successfully
+[2024-09-30 17:56:26] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:26] [INFO] Database connection established successfully
+[2024-09-30 17:56:26] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 17:56:26] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 17:56:26] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:56:26] [INFO] Database connection established successfully
+[2024-09-30 17:56:26] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 17:57:42] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:57:42] [INFO] Database connection established successfully
+[2024-09-30 17:57:42] [INFO] Database initialized successfully
+[2024-09-30 17:57:42] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:57:42] [INFO] Database connection established successfully
+[2024-09-30 17:57:42] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 17:57:42] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 17:57:42] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:57:42] [INFO] Database connection established successfully
+[2024-09-30 17:57:42] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 17:58:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:58:12] [INFO] Database connection established successfully
+[2024-09-30 17:58:12] [INFO] Database initialized successfully
+[2024-09-30 17:58:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:58:12] [INFO] Database connection established successfully
+[2024-09-30 17:58:12] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 17:58:12] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 17:58:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:58:12] [INFO] Database connection established successfully
+[2024-09-30 17:58:12] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 17:58:23] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:58:23] [INFO] Database connection established successfully
+[2024-09-30 17:58:23] [INFO] Database initialized successfully
+[2024-09-30 17:58:23] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:58:23] [INFO] Database connection established successfully
+[2024-09-30 17:58:23] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 17:58:23] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 17:58:23] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:58:23] [INFO] Database connection established successfully
+[2024-09-30 17:58:23] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 17:58:56] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:58:56] [INFO] Database connection established successfully
+[2024-09-30 17:58:56] [INFO] Database initialized successfully
+[2024-09-30 17:58:56] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:58:56] [INFO] Database connection established successfully
+[2024-09-30 17:58:56] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 17:58:56] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 17:58:56] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:58:56] [INFO] Database connection established successfully
+[2024-09-30 17:58:56] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 17:59:28] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:59:28] [INFO] Database connection established successfully
+[2024-09-30 17:59:28] [INFO] Database initialized successfully
+[2024-09-30 17:59:28] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:59:28] [INFO] Database connection established successfully
+[2024-09-30 17:59:28] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 17:59:28] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 17:59:28] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 17:59:28] [INFO] Database connection established successfully
+[2024-09-30 17:59:28] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:00:01] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:01] [INFO] Database connection established successfully
+[2024-09-30 18:00:01] [INFO] Database initialized successfully
+[2024-09-30 18:00:01] [INFO] Unauthorized access attempt to story.php
+[2024-09-30 18:00:01] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:01] [INFO] Database connection established successfully
+[2024-09-30 18:00:01] [INFO] Database initialized successfully
+[2024-09-30 18:00:09] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:09] [INFO] Database connection established successfully
+[2024-09-30 18:00:09] [INFO] Database initialized successfully
+[2024-09-30 18:00:09] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:09] [INFO] Database connection established successfully
+[2024-09-30 18:00:09] [INFO] User retrieved by username: doug
+[2024-09-30 18:00:09] [INFO] User logged in: doug
+[2024-09-30 18:00:09] [INFO] Successful login: doug
+[2024-09-30 18:00:09] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:09] [INFO] Database connection established successfully
+[2024-09-30 18:00:09] [INFO] Database initialized successfully
+[2024-09-30 18:00:09] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:09] [INFO] Database connection established successfully
+[2024-09-30 18:00:09] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:00:10] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:10] [INFO] Database connection established successfully
+[2024-09-30 18:00:10] [INFO] Database initialized successfully
+[2024-09-30 18:00:10] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:10] [INFO] Database connection established successfully
+[2024-09-30 18:00:10] [INFO] User progress updated for user ID: 15, Step: 2, Choice: Lizzy
+[2024-09-30 18:00:10] [INFO] User 15 progressed to step 2 with choice: Lizzy
+[2024-09-30 18:00:10] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:10] [INFO] Database connection established successfully
+[2024-09-30 18:00:10] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:00:11] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:11] [INFO] Database connection established successfully
+[2024-09-30 18:00:11] [INFO] Database initialized successfully
+[2024-09-30 18:00:11] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:11] [INFO] Database connection established successfully
+[2024-09-30 18:00:11] [INFO] User progress updated for user ID: 15, Step: 3, Choice: Festival
+[2024-09-30 18:00:11] [INFO] User 15 progressed to step 3 with choice: Festival
+[2024-09-30 18:00:11] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:11] [INFO] Database connection established successfully
+[2024-09-30 18:00:11] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:00:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:12] [INFO] Database connection established successfully
+[2024-09-30 18:00:12] [INFO] Database initialized successfully
+[2024-09-30 18:00:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:12] [INFO] Database connection established successfully
+[2024-09-30 18:00:12] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 18:00:12] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 18:00:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:12] [INFO] Database connection established successfully
+[2024-09-30 18:00:12] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:00:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:17] [INFO] Database connection established successfully
+[2024-09-30 18:00:17] [INFO] Database initialized successfully
+[2024-09-30 18:00:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:17] [INFO] Database connection established successfully
+[2024-09-30 18:00:17] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 18:00:17] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 18:00:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:00:17] [INFO] Database connection established successfully
+[2024-09-30 18:00:17] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:02:31] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:02:31] [INFO] Database connection established successfully
+[2024-09-30 18:02:31] [INFO] Database initialized successfully
+[2024-09-30 18:02:31] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:02:31] [INFO] Database connection established successfully
+[2024-09-30 18:02:31] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 18:02:31] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 18:02:31] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:02:31] [INFO] Database connection established successfully
+[2024-09-30 18:02:31] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:02:56] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:02:56] [INFO] Database connection established successfully
+[2024-09-30 18:02:56] [INFO] Database initialized successfully
+[2024-09-30 18:02:56] [INFO] Unauthorized access attempt to story.php
+[2024-09-30 18:02:56] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:02:56] [INFO] Database connection established successfully
+[2024-09-30 18:02:56] [INFO] Database initialized successfully
+[2024-09-30 18:03:04] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:05] [INFO] Database connection established successfully
+[2024-09-30 18:03:05] [INFO] Database initialized successfully
+[2024-09-30 18:03:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:05] [INFO] Database connection established successfully
+[2024-09-30 18:03:05] [INFO] User retrieved by username: doug
+[2024-09-30 18:03:05] [INFO] User logged in: doug
+[2024-09-30 18:03:05] [INFO] Successful login: doug
+[2024-09-30 18:03:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:05] [INFO] Database connection established successfully
+[2024-09-30 18:03:05] [INFO] Database initialized successfully
+[2024-09-30 18:03:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:05] [INFO] Database connection established successfully
+[2024-09-30 18:03:05] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:03:06] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:06] [INFO] Database connection established successfully
+[2024-09-30 18:03:06] [INFO] Database initialized successfully
+[2024-09-30 18:03:06] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:06] [INFO] Database connection established successfully
+[2024-09-30 18:03:06] [INFO] User progress updated for user ID: 15, Step: 2, Choice: Lizzy
+[2024-09-30 18:03:06] [INFO] User 15 progressed to step 2 with choice: Lizzy
+[2024-09-30 18:03:06] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:06] [INFO] Database connection established successfully
+[2024-09-30 18:03:06] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:03:06] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:06] [INFO] Database connection established successfully
+[2024-09-30 18:03:06] [INFO] Database initialized successfully
+[2024-09-30 18:03:06] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:07] [INFO] Database connection established successfully
+[2024-09-30 18:03:07] [INFO] User progress updated for user ID: 15, Step: 3, Choice: Walmart
+[2024-09-30 18:03:07] [INFO] User 15 progressed to step 3 with choice: Walmart
+[2024-09-30 18:03:07] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:07] [INFO] Database connection established successfully
+[2024-09-30 18:03:07] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:03:07] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:07] [INFO] Database connection established successfully
+[2024-09-30 18:03:07] [INFO] Database initialized successfully
+[2024-09-30 18:03:07] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:07] [INFO] Database connection established successfully
+[2024-09-30 18:03:07] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 18:03:07] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 18:03:07] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:07] [INFO] Database connection established successfully
+[2024-09-30 18:03:07] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:03:36] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:36] [INFO] Database connection established successfully
+[2024-09-30 18:03:36] [INFO] Database initialized successfully
+[2024-09-30 18:03:36] [INFO] Unauthorized access attempt to story.php
+[2024-09-30 18:03:36] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:36] [INFO] Database connection established successfully
+[2024-09-30 18:03:36] [INFO] Database initialized successfully
+[2024-09-30 18:03:49] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:03:49] [INFO] Database connection established successfully
+[2024-09-30 18:03:49] [INFO] Database initialized successfully
+[2024-09-30 18:04:11] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:04:11] [INFO] Database connection established successfully
+[2024-09-30 18:04:11] [INFO] Database initialized successfully
+[2024-09-30 18:04:11] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:04:11] [INFO] Database connection established successfully
+[2024-09-30 18:04:11] [INFO] New user created with ID: 16
+[2024-09-30 18:04:11] [INFO] New user registered: weigel_kody
+[2024-09-30 18:04:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:04:18] [INFO] Database connection established successfully
+[2024-09-30 18:04:18] [INFO] Database initialized successfully
+[2024-09-30 18:04:35] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:04:35] [INFO] Database connection established successfully
+[2024-09-30 18:04:35] [INFO] Database initialized successfully
+[2024-09-30 18:04:35] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:04:35] [INFO] Database connection established successfully
+[2024-09-30 18:04:35] [INFO] User retrieved by username: weigel_kody
+[2024-09-30 18:04:35] [INFO] User logged in: weigel_kody
+[2024-09-30 18:04:35] [INFO] Successful login: weigel_kody
+[2024-09-30 18:04:35] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:04:35] [INFO] Database connection established successfully
+[2024-09-30 18:04:35] [INFO] Database initialized successfully
+[2024-09-30 18:04:35] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:04:35] [INFO] Database connection established successfully
+[2024-09-30 18:04:35] [INFO] User progress retrieved for user ID: 16
+[2024-09-30 18:05:09] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:10] [INFO] Database connection established successfully
+[2024-09-30 18:05:10] [INFO] Database initialized successfully
+[2024-09-30 18:05:10] [INFO] Unauthorized access attempt to story.php
+[2024-09-30 18:05:10] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:10] [INFO] Database connection established successfully
+[2024-09-30 18:05:10] [INFO] Database initialized successfully
+[2024-09-30 18:05:28] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:28] [INFO] Database connection established successfully
+[2024-09-30 18:05:28] [INFO] Database initialized successfully
+[2024-09-30 18:05:28] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:28] [INFO] Database connection established successfully
+[2024-09-30 18:05:28] [INFO] User retrieved by username: weigel_kody
+[2024-09-30 18:05:28] [INFO] User logged in: weigel_kody
+[2024-09-30 18:05:28] [INFO] Successful login: weigel_kody
+[2024-09-30 18:05:28] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:28] [INFO] Database connection established successfully
+[2024-09-30 18:05:28] [INFO] Database initialized successfully
+[2024-09-30 18:05:28] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:28] [INFO] Database connection established successfully
+[2024-09-30 18:05:28] [INFO] User progress retrieved for user ID: 16
+[2024-09-30 18:05:30] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:30] [INFO] Database connection established successfully
+[2024-09-30 18:05:30] [INFO] Database initialized successfully
+[2024-09-30 18:05:48] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:48] [INFO] Database connection established successfully
+[2024-09-30 18:05:48] [INFO] Database initialized successfully
+[2024-09-30 18:05:48] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:48] [INFO] Database connection established successfully
+[2024-09-30 18:05:48] [INFO] User retrieved by username: doug
+[2024-09-30 18:05:48] [INFO] User logged in: doug
+[2024-09-30 18:05:48] [INFO] Successful login: doug
+[2024-09-30 18:05:48] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:48] [INFO] Database connection established successfully
+[2024-09-30 18:05:48] [INFO] Database initialized successfully
+[2024-09-30 18:05:48] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:48] [INFO] Database connection established successfully
+[2024-09-30 18:05:48] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:05:49] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:49] [INFO] Database connection established successfully
+[2024-09-30 18:05:49] [INFO] Database initialized successfully
+[2024-09-30 18:05:49] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:49] [INFO] Database connection established successfully
+[2024-09-30 18:05:49] [INFO] User progress updated for user ID: 15, Step: 2, Choice: Lizzy
+[2024-09-30 18:05:49] [INFO] User 15 progressed to step 2 with choice: Lizzy
+[2024-09-30 18:05:49] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:49] [INFO] Database connection established successfully
+[2024-09-30 18:05:49] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:05:50] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:50] [INFO] Database connection established successfully
+[2024-09-30 18:05:50] [INFO] Database initialized successfully
+[2024-09-30 18:05:50] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:50] [INFO] Database connection established successfully
+[2024-09-30 18:05:50] [INFO] User progress updated for user ID: 15, Step: 3, Choice: Walmart
+[2024-09-30 18:05:50] [INFO] User 15 progressed to step 3 with choice: Walmart
+[2024-09-30 18:05:50] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:50] [INFO] Database connection established successfully
+[2024-09-30 18:05:50] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:05:51] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:51] [INFO] Database connection established successfully
+[2024-09-30 18:05:51] [INFO] Database initialized successfully
+[2024-09-30 18:05:51] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:51] [INFO] Database connection established successfully
+[2024-09-30 18:05:51] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 18:05:51] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 18:05:51] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:05:51] [INFO] Database connection established successfully
+[2024-09-30 18:05:51] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:06:38] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:06:38] [INFO] Database connection established successfully
+[2024-09-30 18:06:38] [INFO] Database initialized successfully
+[2024-09-30 18:07:19] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:07:19] [INFO] Database connection established successfully
+[2024-09-30 18:07:19] [INFO] Database initialized successfully
+[2024-09-30 18:07:38] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:07:38] [INFO] Database connection established successfully
+[2024-09-30 18:07:38] [INFO] Database initialized successfully
+[2024-09-30 18:07:38] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:07:38] [INFO] Database connection established successfully
+[2024-09-30 18:07:38] [INFO] New user created with ID: 17
+[2024-09-30 18:07:38] [INFO] New user registered: elvis'
+[2024-09-30 18:07:53] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:07:53] [INFO] Database connection established successfully
+[2024-09-30 18:07:53] [INFO] Database initialized successfully
+[2024-09-30 18:08:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:05] [INFO] Database connection established successfully
+[2024-09-30 18:08:05] [INFO] Database initialized successfully
+[2024-09-30 18:08:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:05] [INFO] Database connection established successfully
+[2024-09-30 18:08:05] [INFO] User retrieved by username: Elvis;
+[2024-09-30 18:08:05] [INFO] Failed login attempt for username: Elvis;
+[2024-09-30 18:08:05] [INFO] Failed login attempt: Elvis;
+[2024-09-30 18:08:08] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:08] [INFO] Database connection established successfully
+[2024-09-30 18:08:08] [INFO] Database initialized successfully
+[2024-09-30 18:08:14] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:14] [INFO] Database connection established successfully
+[2024-09-30 18:08:14] [INFO] Database initialized successfully
+[2024-09-30 18:08:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:17] [INFO] Database connection established successfully
+[2024-09-30 18:08:17] [INFO] Database initialized successfully
+[2024-09-30 18:08:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:18] [INFO] Database connection established successfully
+[2024-09-30 18:08:18] [INFO] Database initialized successfully
+[2024-09-30 18:08:25] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:25] [INFO] Database connection established successfully
+[2024-09-30 18:08:25] [INFO] Database initialized successfully
+[2024-09-30 18:08:25] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:25] [INFO] Database connection established successfully
+[2024-09-30 18:08:25] [INFO] User retrieved by username: doug
+[2024-09-30 18:08:25] [INFO] User logged in: doug
+[2024-09-30 18:08:25] [INFO] Successful login: doug
+[2024-09-30 18:08:25] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:25] [INFO] Database connection established successfully
+[2024-09-30 18:08:25] [INFO] Database initialized successfully
+[2024-09-30 18:08:25] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:25] [INFO] Database connection established successfully
+[2024-09-30 18:08:25] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:08:29] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:29] [INFO] Database connection established successfully
+[2024-09-30 18:08:29] [INFO] Database initialized successfully
+[2024-09-30 18:08:29] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:29] [INFO] Database connection established successfully
+[2024-09-30 18:08:29] [INFO] User progress updated for user ID: 15, Step: 2, Choice: Lizzy
+[2024-09-30 18:08:29] [INFO] User 15 progressed to step 2 with choice: Lizzy
+[2024-09-30 18:08:29] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:29] [INFO] Database connection established successfully
+[2024-09-30 18:08:29] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:08:31] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:31] [INFO] Database connection established successfully
+[2024-09-30 18:08:31] [INFO] Database initialized successfully
+[2024-09-30 18:08:31] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:31] [INFO] Database connection established successfully
+[2024-09-30 18:08:31] [INFO] User progress updated for user ID: 15, Step: 3, Choice: Festival
+[2024-09-30 18:08:31] [INFO] User 15 progressed to step 3 with choice: Festival
+[2024-09-30 18:08:31] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:31] [INFO] Database connection established successfully
+[2024-09-30 18:08:31] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:08:33] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:33] [INFO] Database connection established successfully
+[2024-09-30 18:08:33] [INFO] Database initialized successfully
+[2024-09-30 18:08:33] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:33] [INFO] Database connection established successfully
+[2024-09-30 18:08:33] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 18:08:33] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 18:08:33] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:08:33] [INFO] Database connection established successfully
+[2024-09-30 18:08:33] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:21:47] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:21:47] [INFO] Database connection established successfully
+[2024-09-30 18:21:47] [INFO] Database initialized successfully
+[2024-09-30 18:25:46] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:46] [INFO] Database connection established successfully
+[2024-09-30 18:25:46] [INFO] Database initialized successfully
+[2024-09-30 18:25:46] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:46] [INFO] Database connection established successfully
+[2024-09-30 18:25:46] [INFO] User retrieved by username: doug
+[2024-09-30 18:25:46] [INFO] User logged in: doug
+[2024-09-30 18:25:46] [INFO] Successful login: doug
+[2024-09-30 18:25:46] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:46] [INFO] Database connection established successfully
+[2024-09-30 18:25:46] [INFO] Database initialized successfully
+[2024-09-30 18:25:46] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:46] [INFO] Database connection established successfully
+[2024-09-30 18:25:46] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:25:48] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:48] [INFO] Database connection established successfully
+[2024-09-30 18:25:48] [INFO] Database initialized successfully
+[2024-09-30 18:25:48] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:48] [INFO] Database connection established successfully
+[2024-09-30 18:25:48] [INFO] User progress updated for user ID: 15, Step: 2, Choice: Bob
+[2024-09-30 18:25:48] [INFO] User 15 progressed to step 2 with choice: Bob
+[2024-09-30 18:25:48] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:48] [INFO] Database connection established successfully
+[2024-09-30 18:25:48] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:25:51] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:51] [INFO] Database connection established successfully
+[2024-09-30 18:25:51] [INFO] Database initialized successfully
+[2024-09-30 18:25:51] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:51] [INFO] Database connection established successfully
+[2024-09-30 18:25:51] [INFO] User progress updated for user ID: 15, Step: 3, Choice: Festival
+[2024-09-30 18:25:51] [INFO] User 15 progressed to step 3 with choice: Festival
+[2024-09-30 18:25:51] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:51] [INFO] Database connection established successfully
+[2024-09-30 18:25:51] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:25:52] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:52] [INFO] Database connection established successfully
+[2024-09-30 18:25:52] [INFO] Database initialized successfully
+[2024-09-30 18:25:52] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:52] [INFO] Database connection established successfully
+[2024-09-30 18:25:52] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 18:25:52] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 18:25:52] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:25:52] [INFO] Database connection established successfully
+[2024-09-30 18:25:52] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:28:06] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:06] [INFO] Database connection established successfully
+[2024-09-30 18:28:06] [INFO] Database initialized successfully
+[2024-09-30 18:28:06] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:06] [INFO] Database connection established successfully
+[2024-09-30 18:28:06] [INFO] User progress reset for user ID: 15
+[2024-09-30 18:28:06] [INFO] User 15 started the story over
+[2024-09-30 18:28:06] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:06] [INFO] Database connection established successfully
+[2024-09-30 18:28:06] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:28:07] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:07] [INFO] Database connection established successfully
+[2024-09-30 18:28:07] [INFO] Database initialized successfully
+[2024-09-30 18:28:07] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:07] [INFO] Database connection established successfully
+[2024-09-30 18:28:07] [INFO] User progress updated for user ID: 15, Step: 2, Choice: Lizzy
+[2024-09-30 18:28:07] [INFO] User 15 progressed to step 2 with choice: Lizzy
+[2024-09-30 18:28:07] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:07] [INFO] Database connection established successfully
+[2024-09-30 18:28:07] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:28:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:12] [INFO] Database connection established successfully
+[2024-09-30 18:28:12] [INFO] Database initialized successfully
+[2024-09-30 18:28:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:12] [INFO] Database connection established successfully
+[2024-09-30 18:28:12] [INFO] User progress updated for user ID: 15, Step: 3, Choice: Walmart
+[2024-09-30 18:28:12] [INFO] User 15 progressed to step 3 with choice: Walmart
+[2024-09-30 18:28:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:12] [INFO] Database connection established successfully
+[2024-09-30 18:28:12] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:28:13] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:13] [INFO] Database connection established successfully
+[2024-09-30 18:28:13] [INFO] Database initialized successfully
+[2024-09-30 18:28:13] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:13] [INFO] Database connection established successfully
+[2024-09-30 18:28:13] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 18:28:13] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 18:28:13] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:13] [INFO] Database connection established successfully
+[2024-09-30 18:28:13] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:28:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:15] [INFO] Database connection established successfully
+[2024-09-30 18:28:15] [INFO] Database initialized successfully
+[2024-09-30 18:28:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:15] [INFO] Database connection established successfully
+[2024-09-30 18:28:15] [INFO] User progress reset for user ID: 15
+[2024-09-30 18:28:15] [INFO] User 15 started the story over
+[2024-09-30 18:28:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:28:15] [INFO] Database connection established successfully
+[2024-09-30 18:28:15] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:30:00] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:00] [INFO] Database connection established successfully
+[2024-09-30 18:30:00] [INFO] Database initialized successfully
+[2024-09-30 18:30:00] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:00] [INFO] Database connection established successfully
+[2024-09-30 18:30:00] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 18:30:00] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 18:30:00] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:00] [INFO] Database connection established successfully
+[2024-09-30 18:30:00] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:30:01] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:01] [INFO] Database connection established successfully
+[2024-09-30 18:30:01] [INFO] Database initialized successfully
+[2024-09-30 18:30:01] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:01] [INFO] Database connection established successfully
+[2024-09-30 18:30:01] [INFO] User progress reset for user ID: 15
+[2024-09-30 18:30:01] [INFO] User 15 started the story over
+[2024-09-30 18:30:01] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:01] [INFO] Database connection established successfully
+[2024-09-30 18:30:01] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:30:02] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:02] [INFO] Database connection established successfully
+[2024-09-30 18:30:02] [INFO] Database initialized successfully
+[2024-09-30 18:30:02] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:02] [INFO] Database connection established successfully
+[2024-09-30 18:30:02] [INFO] User progress updated for user ID: 15, Step: 2, Choice: Lizzy
+[2024-09-30 18:30:02] [INFO] User 15 progressed to step 2 with choice: Lizzy
+[2024-09-30 18:30:02] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:02] [INFO] Database connection established successfully
+[2024-09-30 18:30:02] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:30:03] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:03] [INFO] Database connection established successfully
+[2024-09-30 18:30:03] [INFO] Database initialized successfully
+[2024-09-30 18:30:03] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:03] [INFO] Database connection established successfully
+[2024-09-30 18:30:03] [INFO] User progress updated for user ID: 15, Step: 3, Choice: Walmart
+[2024-09-30 18:30:03] [INFO] User 15 progressed to step 3 with choice: Walmart
+[2024-09-30 18:30:03] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:03] [INFO] Database connection established successfully
+[2024-09-30 18:30:03] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:30:04] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:04] [INFO] Database connection established successfully
+[2024-09-30 18:30:04] [INFO] Database initialized successfully
+[2024-09-30 18:30:04] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:04] [INFO] Database connection established successfully
+[2024-09-30 18:30:04] [INFO] User progress updated for user ID: 15, Step: 4, Choice: Lettuce
+[2024-09-30 18:30:04] [INFO] User 15 progressed to step 4 with choice: Lettuce
+[2024-09-30 18:30:04] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:04] [INFO] Database connection established successfully
+[2024-09-30 18:30:04] [INFO] User progress retrieved for user ID: 15
+[2024-09-30 18:30:07] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-09-30 18:30:07] [INFO] Database connection established successfully
+[2024-09-30 18:30:07] [INFO] Database initialized successfully
+[2024-10-02 22:22:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:15] [INFO] Database connection established successfully
+[2024-10-02 22:22:15] [INFO] Database initialized successfully
+[2024-10-02 22:22:21] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:21] [INFO] Database connection established successfully
+[2024-10-02 22:22:21] [INFO] Database initialized successfully
+[2024-10-02 22:22:33] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:33] [INFO] Database connection established successfully
+[2024-10-02 22:22:33] [INFO] Database initialized successfully
+[2024-10-02 22:22:33] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:33] [INFO] Database connection established successfully
+[2024-10-02 22:22:33] [INFO] User retrieved by username: doug
+[2024-10-02 22:22:33] [INFO] User logged in: doug
+[2024-10-02 22:22:33] [INFO] Successful login: doug
+[2024-10-02 22:22:33] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:33] [INFO] Database connection established successfully
+[2024-10-02 22:22:33] [INFO] Database initialized successfully
+[2024-10-02 22:22:33] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:33] [INFO] Database connection established successfully
+[2024-10-02 22:22:33] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:22:35] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:35] [INFO] Database connection established successfully
+[2024-10-02 22:22:35] [INFO] Database initialized successfully
+[2024-10-02 22:22:35] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:35] [INFO] Database connection established successfully
+[2024-10-02 22:22:35] [ERROR] Error updating user progress: Invalid step number
+[2024-10-02 22:22:35] [ERROR] Failed to update progress for user 15 at step 1
+[2024-10-02 22:22:35] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:35] [INFO] Database connection established successfully
+[2024-10-02 22:22:35] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:22:38] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:38] [INFO] Database connection established successfully
+[2024-10-02 22:22:38] [INFO] Database initialized successfully
+[2024-10-02 22:22:38] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:38] [INFO] Database connection established successfully
+[2024-10-02 22:22:38] [INFO] User progress updated for user ID: 15, Step: 2, Choice: Festival
+[2024-10-02 22:22:38] [INFO] User 15 progressed to step 2 with choice: Festival
+[2024-10-02 22:22:38] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:38] [INFO] Database connection established successfully
+[2024-10-02 22:22:38] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:22:39] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:39] [INFO] Database connection established successfully
+[2024-10-02 22:22:39] [INFO] Database initialized successfully
+[2024-10-02 22:22:39] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:39] [INFO] Database connection established successfully
+[2024-10-02 22:22:39] [INFO] User progress updated for user ID: 15, Step: 3, Choice: Lettuce
+[2024-10-02 22:22:39] [INFO] User 15 progressed to step 3 with choice: Lettuce
+[2024-10-02 22:22:39] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:22:39] [INFO] Database connection established successfully
+[2024-10-02 22:22:39] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:23:03] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:03] [INFO] Database connection established successfully
+[2024-10-02 22:23:03] [INFO] Database initialized successfully
+[2024-10-02 22:23:03] [INFO] Unauthorized access attempt to story.php
+[2024-10-02 22:23:03] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:03] [INFO] Database connection established successfully
+[2024-10-02 22:23:03] [INFO] Database initialized successfully
+[2024-10-02 22:23:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:15] [INFO] Database connection established successfully
+[2024-10-02 22:23:15] [INFO] Database initialized successfully
+[2024-10-02 22:23:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:15] [INFO] Database connection established successfully
+[2024-10-02 22:23:15] [INFO] User retrieved by username: doug
+[2024-10-02 22:23:15] [INFO] User logged in: doug
+[2024-10-02 22:23:15] [INFO] Successful login: doug
+[2024-10-02 22:23:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:15] [INFO] Database connection established successfully
+[2024-10-02 22:23:15] [INFO] Database initialized successfully
+[2024-10-02 22:23:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:15] [INFO] Database connection established successfully
+[2024-10-02 22:23:15] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:23:16] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:16] [INFO] Database connection established successfully
+[2024-10-02 22:23:16] [INFO] Database initialized successfully
+[2024-10-02 22:23:16] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:16] [INFO] Database connection established successfully
+[2024-10-02 22:23:16] [ERROR] Error updating user progress: Invalid step number
+[2024-10-02 22:23:16] [ERROR] Failed to update progress for user 15 at step 1
+[2024-10-02 22:23:16] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:16] [INFO] Database connection established successfully
+[2024-10-02 22:23:16] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:23:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:18] [INFO] Database connection established successfully
+[2024-10-02 22:23:18] [INFO] Database initialized successfully
+[2024-10-02 22:23:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:18] [INFO] Database connection established successfully
+[2024-10-02 22:23:18] [INFO] User progress updated for user ID: 15, Step: 2, Choice: Festival
+[2024-10-02 22:23:18] [INFO] User 15 progressed to step 2 with choice: Festival
+[2024-10-02 22:23:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:18] [INFO] Database connection established successfully
+[2024-10-02 22:23:18] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:23:19] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:19] [INFO] Database connection established successfully
+[2024-10-02 22:23:19] [INFO] Database initialized successfully
+[2024-10-02 22:23:19] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:19] [INFO] Database connection established successfully
+[2024-10-02 22:23:19] [INFO] User progress updated for user ID: 15, Step: 3, Choice: Lettuce
+[2024-10-02 22:23:19] [INFO] User 15 progressed to step 3 with choice: Lettuce
+[2024-10-02 22:23:19] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:19] [INFO] Database connection established successfully
+[2024-10-02 22:23:19] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:23:20] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:20] [INFO] Database connection established successfully
+[2024-10-02 22:23:20] [INFO] Database initialized successfully
+[2024-10-02 22:23:20] [INFO] Unauthorized access attempt to story.php
+[2024-10-02 22:23:20] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:23:20] [INFO] Database connection established successfully
+[2024-10-02 22:23:20] [INFO] Database initialized successfully
+[2024-10-02 22:25:09] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:09] [INFO] Database connection established successfully
+[2024-10-02 22:25:09] [INFO] Database initialized successfully
+[2024-10-02 22:25:09] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:09] [INFO] Database connection established successfully
+[2024-10-02 22:25:09] [INFO] User retrieved by username: doug
+[2024-10-02 22:25:09] [INFO] User logged in: doug
+[2024-10-02 22:25:09] [INFO] Successful login: doug
+[2024-10-02 22:25:09] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:09] [INFO] Database connection established successfully
+[2024-10-02 22:25:09] [INFO] Database initialized successfully
+[2024-10-02 22:25:09] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:09] [INFO] Database connection established successfully
+[2024-10-02 22:25:09] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:25:10] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:10] [INFO] Database connection established successfully
+[2024-10-02 22:25:10] [INFO] Database initialized successfully
+[2024-10-02 22:25:10] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:10] [INFO] Database connection established successfully
+[2024-10-02 22:25:10] [ERROR] Error updating user progress: Invalid step number
+[2024-10-02 22:25:10] [ERROR] Failed to update progress for user 15 at step 1
+[2024-10-02 22:25:10] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:10] [INFO] Database connection established successfully
+[2024-10-02 22:25:10] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:25:11] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:11] [INFO] Database connection established successfully
+[2024-10-02 22:25:11] [INFO] Database initialized successfully
+[2024-10-02 22:25:11] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:11] [INFO] Database connection established successfully
+[2024-10-02 22:25:11] [INFO] User progress updated for user ID: 15, Step: 2, Choice: Festival
+[2024-10-02 22:25:11] [INFO] User 15 progressed to step 2 with choice: Festival
+[2024-10-02 22:25:11] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:11] [INFO] Database connection established successfully
+[2024-10-02 22:25:11] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:25:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:12] [INFO] Database connection established successfully
+[2024-10-02 22:25:12] [INFO] Database initialized successfully
+[2024-10-02 22:25:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:12] [INFO] Database connection established successfully
+[2024-10-02 22:25:12] [INFO] User progress updated for user ID: 15, Step: 3, Choice: Lettuce
+[2024-10-02 22:25:12] [INFO] User 15 progressed to step 3 with choice: Lettuce
+[2024-10-02 22:25:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:25:12] [INFO] Database connection established successfully
+[2024-10-02 22:25:12] [INFO] User progress retrieved for user ID: 15
+[2024-10-02 22:26:59] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:26:59] [INFO] Database connection established successfully
+[2024-10-02 22:26:59] [INFO] Database initialized successfully
+[2024-10-02 22:26:59] [INFO] Unauthorized access attempt to story.php
+[2024-10-02 22:26:59] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:26:59] [INFO] Database connection established successfully
+[2024-10-02 22:26:59] [INFO] Database initialized successfully
+[2024-10-02 22:27:10] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:27:10] [INFO] Database connection established successfully
+[2024-10-02 22:27:10] [INFO] Database initialized successfully
+[2024-10-02 22:27:10] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:27:10] [INFO] Database connection established successfully
+[2024-10-02 22:27:10] [INFO] User retrieved by username: doug
+[2024-10-02 22:27:10] [INFO] User logged in: doug
+[2024-10-02 22:27:10] [INFO] Successful login: doug
+[2024-10-02 22:27:10] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:27:10] [INFO] Database connection established successfully
+[2024-10-02 22:27:10] [INFO] Database initialized successfully
+[2024-10-02 22:27:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:27:12] [INFO] Database connection established successfully
+[2024-10-02 22:27:12] [INFO] Database initialized successfully
+[2024-10-02 22:27:14] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:27:14] [INFO] Database connection established successfully
+[2024-10-02 22:27:14] [INFO] Database initialized successfully
+[2024-10-02 22:27:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:27:15] [INFO] Database connection established successfully
+[2024-10-02 22:27:15] [INFO] Database initialized successfully
+[2024-10-02 22:27:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:27:17] [INFO] Database connection established successfully
+[2024-10-02 22:27:17] [INFO] Database initialized successfully
+[2024-10-02 22:27:17] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:27:17] [INFO] Database connection established successfully
+[2024-10-02 22:27:17] [INFO] Database initialized successfully
+[2024-10-02 22:27:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:27:18] [INFO] Database connection established successfully
+[2024-10-02 22:27:18] [INFO] Database initialized successfully
+[2024-10-02 22:27:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:27:18] [INFO] Database connection established successfully
+[2024-10-02 22:27:18] [INFO] Database initialized successfully
+[2024-10-02 22:28:04] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:28:04] [INFO] Database connection established successfully
+[2024-10-02 22:28:04] [INFO] Database initialized successfully
+[2024-10-02 22:28:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:28:05] [INFO] Database connection established successfully
+[2024-10-02 22:28:05] [INFO] Database initialized successfully
+[2024-10-02 22:28:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:28:05] [INFO] Database connection established successfully
+[2024-10-02 22:28:05] [INFO] Database initialized successfully
+[2024-10-02 22:28:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:28:05] [INFO] Database connection established successfully
+[2024-10-02 22:28:05] [INFO] Database initialized successfully
+[2024-10-02 22:28:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:28:05] [INFO] Database connection established successfully
+[2024-10-02 22:28:05] [INFO] Database initialized successfully
+[2024-10-02 22:28:06] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:28:06] [INFO] Database connection established successfully
+[2024-10-02 22:28:06] [INFO] Database initialized successfully
+[2024-10-02 22:28:06] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:28:06] [INFO] Database connection established successfully
+[2024-10-02 22:28:06] [INFO] Database initialized successfully
+[2024-10-02 22:29:45] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:29:45] [INFO] Database connection established successfully
+[2024-10-02 22:29:45] [INFO] Database initialized successfully
+[2024-10-02 22:29:46] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:29:46] [INFO] Database connection established successfully
+[2024-10-02 22:29:46] [INFO] Database initialized successfully
+[2024-10-02 22:29:46] [INFO] Unauthorized access attempt to story.php
+[2024-10-02 22:29:46] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:29:46] [INFO] Database connection established successfully
+[2024-10-02 22:29:46] [INFO] Database initialized successfully
+[2024-10-02 22:29:51] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:29:51] [INFO] Database connection established successfully
+[2024-10-02 22:29:51] [INFO] Database initialized successfully
+[2024-10-02 22:29:51] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:29:51] [INFO] Database connection established successfully
+[2024-10-02 22:29:51] [INFO] User retrieved by username: doug
+[2024-10-02 22:29:51] [INFO] User logged in: doug
+[2024-10-02 22:29:51] [INFO] Successful login: doug
+[2024-10-02 22:29:51] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:29:51] [INFO] Database connection established successfully
+[2024-10-02 22:29:51] [INFO] Database initialized successfully
+[2024-10-02 22:29:53] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:29:54] [INFO] Database connection established successfully
+[2024-10-02 22:29:54] [INFO] Database initialized successfully
+[2024-10-02 22:29:55] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:29:55] [INFO] Database connection established successfully
+[2024-10-02 22:29:55] [INFO] Database initialized successfully
+[2024-10-02 22:29:56] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:29:56] [INFO] Database connection established successfully
+[2024-10-02 22:29:56] [INFO] Database initialized successfully
+[2024-10-02 22:31:57] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:31:57] [INFO] Database connection established successfully
+[2024-10-02 22:31:57] [INFO] Database initialized successfully
+[2024-10-02 22:31:57] [INFO] Unauthorized access attempt to story.php
+[2024-10-02 22:31:57] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:31:57] [INFO] Database connection established successfully
+[2024-10-02 22:31:57] [INFO] Database initialized successfully
+[2024-10-02 22:32:04] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:32:04] [INFO] Database connection established successfully
+[2024-10-02 22:32:04] [INFO] Database initialized successfully
+[2024-10-02 22:32:04] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:32:04] [INFO] Database connection established successfully
+[2024-10-02 22:32:04] [INFO] User retrieved by username: doug
+[2024-10-02 22:32:04] [INFO] User logged in: doug
+[2024-10-02 22:32:04] [INFO] Successful login: doug
+[2024-10-02 22:32:04] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:32:04] [INFO] Database connection established successfully
+[2024-10-02 22:32:04] [INFO] Database initialized successfully
+[2024-10-02 22:32:09] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:32:09] [INFO] Database connection established successfully
+[2024-10-02 22:32:09] [INFO] Database initialized successfully
+[2024-10-02 22:32:43] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:32:43] [INFO] Database connection established successfully
+[2024-10-02 22:32:43] [INFO] Database initialized successfully
+[2024-10-02 22:34:56] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:34:56] [INFO] Database connection established successfully
+[2024-10-02 22:34:56] [INFO] Database initialized successfully
+[2024-10-02 22:35:31] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:35:31] [INFO] Database connection established successfully
+[2024-10-02 22:35:31] [INFO] Database initialized successfully
+[2024-10-02 22:35:31] [INFO] Unauthorized access attempt to story.php
+[2024-10-02 22:35:31] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:35:31] [INFO] Database connection established successfully
+[2024-10-02 22:35:31] [INFO] Database initialized successfully
+[2024-10-02 22:35:39] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:35:40] [INFO] Database connection established successfully
+[2024-10-02 22:35:40] [INFO] Database initialized successfully
+[2024-10-02 22:35:40] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:35:40] [INFO] Database connection established successfully
+[2024-10-02 22:35:40] [INFO] User retrieved by username: doug
+[2024-10-02 22:35:40] [INFO] User logged in: doug
+[2024-10-02 22:35:40] [INFO] Successful login: doug
+[2024-10-02 22:35:40] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:35:40] [INFO] Database connection established successfully
+[2024-10-02 22:35:40] [INFO] Database initialized successfully
+[2024-10-02 22:35:46] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:35:46] [INFO] Database connection established successfully
+[2024-10-02 22:35:46] [INFO] Database initialized successfully
+[2024-10-02 22:35:48] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:35:48] [INFO] Database connection established successfully
+[2024-10-02 22:35:48] [INFO] Database initialized successfully
+[2024-10-02 22:35:50] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:35:50] [INFO] Database connection established successfully
+[2024-10-02 22:35:50] [INFO] Database initialized successfully
+[2024-10-02 22:35:53] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:35:53] [INFO] Database connection established successfully
+[2024-10-02 22:35:53] [INFO] Database initialized successfully
+[2024-10-02 22:35:53] [INFO] Unauthorized access attempt to story.php
+[2024-10-02 22:35:53] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:35:53] [INFO] Database connection established successfully
+[2024-10-02 22:35:53] [INFO] Database initialized successfully
+[2024-10-02 22:38:34] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:38:34] [INFO] Database connection established successfully
+[2024-10-02 22:38:34] [INFO] Database initialized successfully
+[2024-10-02 22:38:34] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:38:34] [INFO] Database connection established successfully
+[2024-10-02 22:38:34] [INFO] User retrieved by username: doug
+[2024-10-02 22:38:34] [INFO] User logged in: doug
+[2024-10-02 22:38:34] [INFO] Successful login: doug
+[2024-10-02 22:38:34] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:38:34] [INFO] Database connection established successfully
+[2024-10-02 22:38:34] [INFO] Database initialized successfully
+[2024-10-02 22:38:36] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:38:36] [INFO] Database connection established successfully
+[2024-10-02 22:38:36] [INFO] Database initialized successfully
+[2024-10-02 22:38:37] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:38:37] [INFO] Database connection established successfully
+[2024-10-02 22:38:37] [INFO] Database initialized successfully
+[2024-10-02 22:38:38] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:38:38] [INFO] Database connection established successfully
+[2024-10-02 22:38:38] [INFO] Database initialized successfully
+[2024-10-02 22:40:27] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:40:27] [INFO] Database connection established successfully
+[2024-10-02 22:40:27] [INFO] Database initialized successfully
+[2024-10-02 22:40:27] [INFO] Unauthorized access attempt to story.php
+[2024-10-02 22:40:27] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:40:27] [INFO] Database connection established successfully
+[2024-10-02 22:40:27] [INFO] Database initialized successfully
+[2024-10-02 22:40:38] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:40:38] [INFO] Database connection established successfully
+[2024-10-02 22:40:38] [INFO] Database initialized successfully
+[2024-10-02 22:40:38] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:40:38] [INFO] Database connection established successfully
+[2024-10-02 22:40:38] [INFO] User retrieved by username: doug
+[2024-10-02 22:40:38] [INFO] User logged in: doug
+[2024-10-02 22:40:38] [INFO] Successful login: doug
+[2024-10-02 22:40:38] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:40:38] [INFO] Database connection established successfully
+[2024-10-02 22:40:38] [INFO] Database initialized successfully
+[2024-10-02 22:40:42] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:40:42] [INFO] Database connection established successfully
+[2024-10-02 22:40:42] [INFO] Database initialized successfully
+[2024-10-02 22:40:43] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:40:43] [INFO] Database connection established successfully
+[2024-10-02 22:40:43] [INFO] Database initialized successfully
+[2024-10-02 22:40:46] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:40:46] [INFO] Database connection established successfully
+[2024-10-02 22:40:46] [INFO] Database initialized successfully
+[2024-10-02 22:41:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:41:12] [INFO] Database connection established successfully
+[2024-10-02 22:41:12] [INFO] Database initialized successfully
+[2024-10-02 22:41:12] [INFO] Unauthorized access attempt to story.php
+[2024-10-02 22:41:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:41:12] [INFO] Database connection established successfully
+[2024-10-02 22:41:12] [INFO] Database initialized successfully
+[2024-10-02 22:41:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:41:18] [INFO] Database connection established successfully
+[2024-10-02 22:41:18] [INFO] Database initialized successfully
+[2024-10-02 22:41:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:41:18] [INFO] Database connection established successfully
+[2024-10-02 22:41:18] [INFO] User retrieved by username: doug
+[2024-10-02 22:41:18] [INFO] User logged in: doug
+[2024-10-02 22:41:18] [INFO] Successful login: doug
+[2024-10-02 22:41:18] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:41:18] [INFO] Database connection established successfully
+[2024-10-02 22:41:18] [INFO] Database initialized successfully
+[2024-10-02 22:43:24] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:43:24] [INFO] Database connection established successfully
+[2024-10-02 22:43:24] [INFO] Database initialized successfully
+[2024-10-02 22:43:25] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:43:25] [INFO] Database connection established successfully
+[2024-10-02 22:43:25] [INFO] Database initialized successfully
+[2024-10-02 22:43:26] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:43:26] [INFO] Database connection established successfully
+[2024-10-02 22:43:26] [INFO] Database initialized successfully
+[2024-10-02 22:43:27] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:43:27] [INFO] Database connection established successfully
+[2024-10-02 22:43:27] [INFO] Database initialized successfully
+[2024-10-02 22:43:27] [INFO] Unauthorized access attempt to story.php
+[2024-10-02 22:43:27] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:43:27] [INFO] Database connection established successfully
+[2024-10-02 22:43:27] [INFO] Database initialized successfully
+[2024-10-02 22:43:33] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:43:33] [INFO] Database connection established successfully
+[2024-10-02 22:43:33] [INFO] Database initialized successfully
+[2024-10-02 22:43:33] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:43:33] [INFO] Database connection established successfully
+[2024-10-02 22:43:33] [INFO] User retrieved by username: doug
+[2024-10-02 22:43:33] [INFO] User logged in: doug
+[2024-10-02 22:43:33] [INFO] Successful login: doug
+[2024-10-02 22:43:33] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:43:33] [INFO] Database connection established successfully
+[2024-10-02 22:43:33] [INFO] Database initialized successfully
+[2024-10-02 22:43:35] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:43:35] [INFO] Database connection established successfully
+[2024-10-02 22:43:35] [INFO] Database initialized successfully
+[2024-10-02 22:43:36] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:43:36] [INFO] Database connection established successfully
+[2024-10-02 22:43:36] [INFO] Database initialized successfully
+[2024-10-02 22:43:37] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-02 22:43:37] [INFO] Database connection established successfully
+[2024-10-02 22:43:37] [INFO] Database initialized successfully
+[2024-10-03 03:12:52] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:12:52] [INFO] Database connection established successfully
+[2024-10-03 03:12:52] [INFO] Database initialized successfully
+[2024-10-03 03:13:00] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:13:00] [INFO] Database connection established successfully
+[2024-10-03 03:13:00] [INFO] Database initialized successfully
+[2024-10-03 03:13:00] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:13:00] [INFO] Database connection established successfully
+[2024-10-03 03:13:00] [INFO] User retrieved by username: doug
+[2024-10-03 03:13:00] [INFO] User logged in: doug
+[2024-10-03 03:13:00] [INFO] Successful login: doug
+[2024-10-03 03:13:00] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:13:00] [INFO] Database connection established successfully
+[2024-10-03 03:13:00] [INFO] Database initialized successfully
+[2024-10-03 03:13:02] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:13:02] [INFO] Database connection established successfully
+[2024-10-03 03:13:02] [INFO] Database initialized successfully
+[2024-10-03 03:13:04] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:13:04] [INFO] Database connection established successfully
+[2024-10-03 03:13:04] [INFO] Database initialized successfully
+[2024-10-03 03:13:50] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:13:50] [INFO] Database connection established successfully
+[2024-10-03 03:13:50] [INFO] Database initialized successfully
+[2024-10-03 03:13:56] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:13:56] [INFO] Database connection established successfully
+[2024-10-03 03:13:56] [INFO] Database initialized successfully
+[2024-10-03 03:13:56] [INFO] Unauthorized access attempt to story.php
+[2024-10-03 03:13:56] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:13:56] [INFO] Database connection established successfully
+[2024-10-03 03:13:56] [INFO] Database initialized successfully
+[2024-10-03 03:39:44] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:39:44] [INFO] Database connection established successfully
+[2024-10-03 03:39:44] [INFO] Database initialized successfully
+[2024-10-03 03:39:44] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:39:44] [INFO] Database connection established successfully
+[2024-10-03 03:39:44] [INFO] User retrieved by username: doug
+[2024-10-03 03:39:44] [INFO] User logged in: doug
+[2024-10-03 03:39:44] [INFO] Successful login: doug
+[2024-10-03 03:39:44] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:39:44] [INFO] Database connection established successfully
+[2024-10-03 03:39:44] [INFO] Database initialized successfully
+[2024-10-03 03:40:03] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:40:03] [INFO] Database connection established successfully
+[2024-10-03 03:40:03] [INFO] Database initialized successfully
+[2024-10-03 03:40:07] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:40:07] [INFO] Database connection established successfully
+[2024-10-03 03:40:07] [INFO] Database initialized successfully
+[2024-10-03 03:40:11] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:40:11] [INFO] Database connection established successfully
+[2024-10-03 03:40:11] [INFO] Database initialized successfully
+[2024-10-03 03:40:25] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:40:25] [INFO] Database connection established successfully
+[2024-10-03 03:40:25] [INFO] Database initialized successfully
+[2024-10-03 03:40:25] [INFO] Unauthorized access attempt to story.php
+[2024-10-03 03:40:25] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:40:25] [INFO] Database connection established successfully
+[2024-10-03 03:40:25] [INFO] Database initialized successfully
+[2024-10-03 03:41:50] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:41:50] [INFO] Database connection established successfully
+[2024-10-03 03:41:50] [INFO] Database initialized successfully
+[2024-10-03 03:41:50] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:41:50] [INFO] Database connection established successfully
+[2024-10-03 03:41:50] [INFO] User retrieved by username: doug
+[2024-10-03 03:41:50] [INFO] Failed login attempt for username: doug
+[2024-10-03 03:41:50] [INFO] Failed login attempt: doug
+[2024-10-03 03:41:57] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:41:57] [INFO] Database connection established successfully
+[2024-10-03 03:41:57] [INFO] Database initialized successfully
+[2024-10-03 03:41:57] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:41:57] [INFO] Database connection established successfully
+[2024-10-03 03:41:57] [INFO] User retrieved by username: doug
+[2024-10-03 03:41:57] [INFO] User logged in: doug
+[2024-10-03 03:41:57] [INFO] Successful login: doug
+[2024-10-03 03:41:57] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:41:57] [INFO] Database connection established successfully
+[2024-10-03 03:41:57] [INFO] Database initialized successfully
+[2024-10-03 03:41:58] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:41:58] [INFO] Database connection established successfully
+[2024-10-03 03:41:58] [INFO] Database initialized successfully
+[2024-10-03 03:41:59] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:41:59] [INFO] Database connection established successfully
+[2024-10-03 03:41:59] [INFO] Database initialized successfully
+[2024-10-03 03:42:00] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:42:00] [INFO] Database connection established successfully
+[2024-10-03 03:42:00] [INFO] Database initialized successfully
+[2024-10-03 03:42:01] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:42:01] [INFO] Database connection established successfully
+[2024-10-03 03:42:01] [INFO] Database initialized successfully
+[2024-10-03 03:42:01] [INFO] Unauthorized access attempt to story.php
+[2024-10-03 03:42:01] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:42:01] [INFO] Database connection established successfully
+[2024-10-03 03:42:01] [INFO] Database initialized successfully
+[2024-10-03 03:45:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:05] [INFO] Database connection established successfully
+[2024-10-03 03:45:05] [INFO] Database initialized successfully
+[2024-10-03 03:45:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:05] [INFO] Database connection established successfully
+[2024-10-03 03:45:05] [INFO] User retrieved by username: doug
+[2024-10-03 03:45:05] [INFO] User logged in: doug
+[2024-10-03 03:45:05] [INFO] Successful login: doug
+[2024-10-03 03:45:05] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:05] [INFO] Database connection established successfully
+[2024-10-03 03:45:05] [INFO] Database initialized successfully
+[2024-10-03 03:45:07] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:07] [INFO] Database connection established successfully
+[2024-10-03 03:45:07] [INFO] Database initialized successfully
+[2024-10-03 03:45:07] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:07] [INFO] Database connection established successfully
+[2024-10-03 03:45:07] [INFO] Database initialized successfully
+[2024-10-03 03:45:08] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:08] [INFO] Database connection established successfully
+[2024-10-03 03:45:08] [INFO] Database initialized successfully
+[2024-10-03 03:45:13] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:13] [INFO] Database connection established successfully
+[2024-10-03 03:45:13] [INFO] Database initialized successfully
+[2024-10-03 03:45:13] [INFO] Unauthorized access attempt to story.php
+[2024-10-03 03:45:13] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:13] [INFO] Database connection established successfully
+[2024-10-03 03:45:13] [INFO] Database initialized successfully
+[2024-10-03 03:45:49] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:49] [INFO] Database connection established successfully
+[2024-10-03 03:45:49] [INFO] Database initialized successfully
+[2024-10-03 03:45:49] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:49] [INFO] Database connection established successfully
+[2024-10-03 03:45:49] [INFO] User retrieved by username: doug
+[2024-10-03 03:45:49] [INFO] User logged in: doug
+[2024-10-03 03:45:49] [INFO] Successful login: doug
+[2024-10-03 03:45:49] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:49] [INFO] Database connection established successfully
+[2024-10-03 03:45:49] [INFO] Database initialized successfully
+[2024-10-03 03:45:50] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:50] [INFO] Database connection established successfully
+[2024-10-03 03:45:50] [INFO] Database initialized successfully
+[2024-10-03 03:45:51] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:51] [INFO] Database connection established successfully
+[2024-10-03 03:45:51] [INFO] Database initialized successfully
+[2024-10-03 03:45:52] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:52] [INFO] Database connection established successfully
+[2024-10-03 03:45:52] [INFO] Database initialized successfully
+[2024-10-03 03:45:52] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:52] [INFO] Database connection established successfully
+[2024-10-03 03:45:52] [INFO] Database initialized successfully
+[2024-10-03 03:45:53] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:53] [INFO] Database connection established successfully
+[2024-10-03 03:45:53] [INFO] Database initialized successfully
+[2024-10-03 03:45:54] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:54] [INFO] Database connection established successfully
+[2024-10-03 03:45:54] [INFO] Database initialized successfully
+[2024-10-03 03:45:54] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:54] [INFO] Database connection established successfully
+[2024-10-03 03:45:54] [INFO] Database initialized successfully
+[2024-10-03 03:45:55] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:45:55] [INFO] Database connection established successfully
+[2024-10-03 03:45:55] [INFO] Database initialized successfully
+[2024-10-03 03:53:42] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:53:42] [INFO] Database connection established successfully
+[2024-10-03 03:53:42] [INFO] Database initialized successfully
+[2024-10-03 03:53:44] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:53:44] [INFO] Database connection established successfully
+[2024-10-03 03:53:44] [INFO] Database initialized successfully
+[2024-10-03 03:53:48] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:53:48] [INFO] Database connection established successfully
+[2024-10-03 03:53:48] [INFO] Database initialized successfully
+[2024-10-03 03:53:50] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:53:50] [INFO] Database connection established successfully
+[2024-10-03 03:53:50] [INFO] Database initialized successfully
+[2024-10-03 03:53:53] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:53:53] [INFO] Database connection established successfully
+[2024-10-03 03:53:53] [INFO] Database initialized successfully
+[2024-10-03 03:54:01] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:01] [INFO] Database connection established successfully
+[2024-10-03 03:54:01] [INFO] Database initialized successfully
+[2024-10-03 03:54:09] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:09] [INFO] Database connection established successfully
+[2024-10-03 03:54:09] [INFO] Database initialized successfully
+[2024-10-03 03:54:10] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:10] [INFO] Database connection established successfully
+[2024-10-03 03:54:10] [INFO] Database initialized successfully
+[2024-10-03 03:54:12] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:12] [INFO] Database connection established successfully
+[2024-10-03 03:54:12] [INFO] Database initialized successfully
+[2024-10-03 03:54:13] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:13] [INFO] Database connection established successfully
+[2024-10-03 03:54:13] [INFO] Database initialized successfully
+[2024-10-03 03:54:15] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:15] [INFO] Database connection established successfully
+[2024-10-03 03:54:15] [INFO] Database initialized successfully
+[2024-10-03 03:54:33] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:33] [INFO] Database connection established successfully
+[2024-10-03 03:54:33] [INFO] Database initialized successfully
+[2024-10-03 03:54:34] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:34] [INFO] Database connection established successfully
+[2024-10-03 03:54:34] [INFO] Database initialized successfully
+[2024-10-03 03:54:35] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:35] [INFO] Database connection established successfully
+[2024-10-03 03:54:35] [INFO] Database initialized successfully
+[2024-10-03 03:54:40] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:40] [INFO] Database connection established successfully
+[2024-10-03 03:54:40] [INFO] Database initialized successfully
+[2024-10-03 03:54:42] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:42] [INFO] Database connection established successfully
+[2024-10-03 03:54:42] [INFO] Database initialized successfully
+[2024-10-03 03:54:42] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:42] [INFO] Database connection established successfully
+[2024-10-03 03:54:42] [INFO] Database initialized successfully
+[2024-10-03 03:54:43] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:43] [INFO] Database connection established successfully
+[2024-10-03 03:54:43] [INFO] Database initialized successfully
+[2024-10-03 03:54:45] [INFO] Attempting to connect to database with DSN: mysql:host=localhost; dbname=dhoffmann
+[2024-10-03 03:54:45] [INFO] Database connection established successfully
+[2024-10-03 03:54:45] [INFO] Database initialized successfully
